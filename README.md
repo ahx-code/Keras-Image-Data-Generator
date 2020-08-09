@@ -1,3 +1,5 @@
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/ahx-code/Keras-Image-Data-Generator.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ahx-code/Keras-Image-Data-Generator/alerts/)
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/ahx-code/Keras-Image-Data-Generator.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ahx-code/Keras-Image-Data-Generator/context:python)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![python](https://upload.wikimedia.org/wikipedia/commons/f/fc/Blue_Python_3.7_Shield_Badge.svg)](https://www.python.org/)
 [![Keras](https://github.com/AhmetTavli/Badge/blob/master/badges/keras_badge.svg)](https://keras.io/)
