@@ -8,7 +8,7 @@
 
 # Keras Image-Data-Generator
 
-A tutorial for generating and saving images to the specified directory.
+A tutorial for generating and saving images to the current directory.
 
 ```bash
 python main.py --test-size 0.2 --train-gen 60000 --test-gen 10000
